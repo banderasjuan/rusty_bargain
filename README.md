@@ -1,2 +1,2 @@
 # rusty_bargain
-Project about a model that predicts car prices
+Analysis and creating of a model that predicts car prices
